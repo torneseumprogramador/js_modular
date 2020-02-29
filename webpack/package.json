@@ -1,0 +1,26 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "Teste de import data",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack --watch --config dev.webpack.config.js"
+  },
+  "keywords": [
+    "Didox",
+    "Torne-se",
+    "um",
+    "Programador",
+    "javascript",
+    "es6",
+    "Danilo Aparecido"
+  ],
+  "author": "Danilo Aparecido",
+  "devDependencies": {
+    "webpack": "*",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {},
+  "license": "ISC"
+}
